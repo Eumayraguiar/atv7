@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo</title>
+</head>
+<b><h1><center>Currículo</center></h1>
+    <header><b><h1>
+        <b>Nome:</b>Mayra Aguiar
+        
+    </h1>
+    <nav><h1>Contato</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+            Recusandae corporis repellat voluptatem magnam, soluta nulla ipsum blanditiis eius,
+        consequatur quia perspiciatis autem tempora, facilis repudiandae. 
+        Necessitatibus rerum ea tenetur labore.</p>
+    </nav>
+    </b></header>
+    <h1>Formação acadêmica</h1>
+    <p><article> 
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque quisquam porro enim eius, 
+        ipsam ullam consequuntur nulla optio! Illo nostrum eveniet cupiditate magni est reprehenderit quo dolores iusto obcaecati? Illum.
+    </p> 
+
+        <h1>Experiência profissional</h1>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Laboriosam excepturi adipisci dolore vitae ex architecto vel quam dignissimos, veniam corrupti quaerat! Quod obcaecati molestias ex adipisci, tempora deserunt reiciendis quo.
+        </p>
+
+<h1>Experiência acadêmica</h1>
+<p> ipsum dolor sit amet consectetur adipisicing elit. Rem doloribus,
+    sint quo velit recusandae corrupti, quas tempora eius iste asperiores aut aliquam neque fugiat nesciunt dolores voluptatibus. Possimus, minus earum. </p> 
+
+    </b> </article>
+
+    
+    
+</body>
+</html>
